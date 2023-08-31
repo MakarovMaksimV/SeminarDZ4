@@ -1,0 +1,5 @@
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task25/obj/Debug/net7.0/Task25.csproj.AssemblyReference.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task25/obj/Debug/net7.0/Task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task25/obj/Debug/net7.0/Task25.AssemblyInfoInputs.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task25/obj/Debug/net7.0/Task25.AssemblyInfo.cs
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task25/obj/Debug/net7.0/Task25.csproj.CoreCompileInputs.cache
