@@ -1,0 +1,15 @@
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/bin/Debug/net7.0/Task29
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/bin/Debug/net7.0/Task29.deps.json
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/bin/Debug/net7.0/Task29.runtimeconfig.json
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/bin/Debug/net7.0/Task29.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/bin/Debug/net7.0/Task29.pdb
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/obj/Debug/net7.0/Task29.csproj.AssemblyReference.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/obj/Debug/net7.0/Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/obj/Debug/net7.0/Task29.AssemblyInfoInputs.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/obj/Debug/net7.0/Task29.AssemblyInfo.cs
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/obj/Debug/net7.0/Task29.csproj.CoreCompileInputs.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/obj/Debug/net7.0/Task29.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/obj/Debug/net7.0/refint/Task29.dll
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/obj/Debug/net7.0/Task29.pdb
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/obj/Debug/net7.0/Task29.genruntimeconfig.cache
+/Users/maksimmakarov/Desktop/C#/SeminarDZ4/Task29/obj/Debug/net7.0/ref/Task29.dll
